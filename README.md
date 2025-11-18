@@ -15,7 +15,7 @@ The project focuses on **data preprocessing, data cleaning, exploratory data ana
 ## Repository Structure
 
 ```
-IFN509-Data-Exploration/
+IFN509-Data-Analysis-project/
 │
 ├── data/
 │   ├── processed/

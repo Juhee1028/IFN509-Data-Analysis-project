@@ -21,7 +21,7 @@ IFN509-Data-Analysis-project/
 │   ├── processed/
 │      └── cleaned_dataset.csv        # Cleaned / transformed dataset (allowed version only)                    
 │
-├── notebooks/
+├── notebook/
 │   └── EDA_and_Modeling.ipynb      # Exploratory analysis, preprocessing, modelling
 │
 ├── report/

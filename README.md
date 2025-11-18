@@ -14,7 +14,7 @@ The project focuses on **data preprocessing, data cleaning, exploratory data ana
 
 ## Repository Structure
 
-'''
+```
 IFN509-Data-Exploration/
 │
 ├── data/
@@ -28,7 +28,7 @@ IFN509-Data-Exploration/
 │   └── IFN509_Assessment2_Report.pdf   # Final report (team submission)
 │
 └── README.md                           # Project documentation
-'''
+```
 
 ## Dataset Source
 The dataset used in this project was provided by QUT for educational purposes.  

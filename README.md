@@ -22,7 +22,7 @@ IFN509-Data-Exploration/
 │      └── cleaned_dataset.csv        # Cleaned / transformed dataset (allowed version only)                    
 │
 ├── notebooks/
-│   └── 01_EDA_and_Modeling.ipynb      # Exploratory analysis, preprocessing, modelling
+│   └── EDA_and_Modeling.ipynb      # Exploratory analysis, preprocessing, modelling
 │
 ├── report/
 │   └── IFN509_Assessment2_Report.pdf   # Final report (team submission)
